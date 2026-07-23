@@ -96,10 +96,6 @@ DF Translator is actively tested, but bugs may still exist.
 
 If you find an issue, have a suggestion, or want to provide constructive feedback, please open an issue in this repository.
 
-## Download
-
-You can download DF Translator here:
-
-https://github.com/Favozza/DF_Translator
+## Final remark
 
 Enjoy creating songs, poems, names, and stories in the languages of Dwarf Fortress!
