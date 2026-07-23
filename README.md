@@ -16,7 +16,6 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
 
 * Translate between fantasy languages directly.
 * Uses the **original in-game dictionaries**, preserving Dwarf Fortress' own limitations and style.
-* Keeps existing words from Dwarf Fortress languages untranslated when they are likely to be names.
 * Correctly handles compound words used in:
   * Surnames
   * Site names
