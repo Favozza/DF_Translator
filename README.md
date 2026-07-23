@@ -2,7 +2,7 @@
 
 A small dictionary-based translation tool for **Dwarf Fortress** languages.
 
-Ever wanted your **songs**, **artifacts**, or **legendary historical figures** to actually sound like they came from the civilization they belong to? DF Translator allows you to translate text between English and the languages of Dwarf Fortress — or even between the fantasy languages themselves.
+Ever wanted your **songs**, **artifacts**, or **legendary historical figures** to actually sound like they came from the civilization they belong to? DF Translator allows you to translate text between English and the languages of Dwarf Fortress or even between the fantasy languages themselves.
 
 ![DF Translator Screenshot](https://i.imgur.com/OqQE6sU.png)
 
